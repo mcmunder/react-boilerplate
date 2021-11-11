@@ -6,7 +6,20 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "react",
+    "typescript",
+    "boilerplate",
+    "webpack",
+    "babel",
+    "eslint",
+    "stylelint",
+    "prettier",
+    "jest",
+    "husky",
+    "axe",
+    "playwright"
+  ],
   "author": "",
   "license": "ISC"
 }
